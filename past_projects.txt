@@ -58,3 +58,6 @@ RealPlayer
 SpaceX
 Juicero
 Chegg
+Juno
+Tucows
+Microsoft Bob
